@@ -1,1 +1,1 @@
-# NewForCur
+// NewForCur
